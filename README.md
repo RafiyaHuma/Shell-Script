@@ -1,4 +1,4 @@
 # Shell-Script
-Shell Scripting
+Python Scripting
 This is me shell script first one
 Hello world
