@@ -7,3 +7,4 @@ done
 
 echo $sum
 echo "world"
+echo "ko"
