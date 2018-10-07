@@ -6,3 +6,4 @@ do
 done
 
 echo $sum
+echo "world"
